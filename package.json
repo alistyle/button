@@ -1,0 +1,23 @@
+{
+    "name": "button",
+    "version": "1.0.1",
+    "family": "alistyle",
+    "description": "全站通用按钮组件。",
+    "homepage": "https://github.com/alistyle/button",
+    "keywords": [
+        "按钮"
+    ],
+    "author": "ermin.zem",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alistyle/button"
+    },
+    "bugs": {
+        "url": "https://github.com/alistyle/button/issues"
+    },
+    "license": "MIT",
+    "spm": {
+      "alias": {},
+      "output": ["button.css"]
+    }
+}
