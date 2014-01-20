@@ -4,9 +4,7 @@
     "family": "alistyle",
     "description": "全站通用按钮组件。",
     "homepage": "https://github.com/alistyle/button",
-    "keywords": [
-        "按钮"
-    ],
+    "keywords": ["widget"],
     "author": "ermin.zem",
     "repository": {
         "type": "git",
@@ -17,7 +15,9 @@
     },
     "license": "MIT",
     "spm": {
-      "alias": {},
+      "alias": {
+          "base": "alistyle/base/1.0.1/base.css"
+      },
       "output": ["button.css"]
     }
 }
