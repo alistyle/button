@@ -105,7 +105,6 @@ a.ali-button-sorange {
 .ali-button-lwhite,
 .ali-button-mwhite,
 .ali-button-swhite {
-    border:1px solid #afafaf;
     background-color: #f3f3f3;
     color: #777;
 }
@@ -113,7 +112,6 @@ a.ali-button-sorange {
 .ali-button-lwhite:hover,
 .ali-button-mwhite:hover,
 .ali-button-swhite:hover {
-    border: 1px solid #8e8e8e;
     background-color: #fcfbfb;
     color: #676d70;
 }
