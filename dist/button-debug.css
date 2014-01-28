@@ -103,14 +103,13 @@ a.ali-button-sorange {
 .ali-button-lwhite,
 .ali-button-mwhite,
 .ali-button-swhite {
-    background-color: #f3f3f3;
+    background-color: #EBE5E5;
     color: #777;
 }
 
 .ali-button-lwhite:hover,
 .ali-button-mwhite:hover,
 .ali-button-swhite:hover {
-    background-color: #E7E7E7;
     color: #676d70;
 }
 
