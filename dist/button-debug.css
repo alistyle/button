@@ -42,6 +42,9 @@ input.ali-button-text, button.ali-button-text {
     box-shadow: 1px 1px 3px #999 inset;
 }
 
+/*
+ * 橙色按钮
+ */
 .ali-button-lorange,
 .ali-button-morange,
 .ali-button-sorange {
@@ -100,17 +103,23 @@ a.ali-button-sorange {
     height:22px;
 }
 
+/*
+ * 白色按钮
+ */
 .ali-button-lwhite,
 .ali-button-mwhite,
 .ali-button-swhite {
-    background-color: #EBE5E5;
+    border: 1px solid #afafaf;
+    background-color: #f3f3f3;
     color: #777;
 }
 
 .ali-button-lwhite:hover,
 .ali-button-mwhite:hover,
 .ali-button-swhite:hover {
-    color: #676d70;
+    border: 1px solid #8e8e8e;
+    background-color: #fcfbfb;
+    color: #676d70
 }
 
 a.ali-button-lwhite,
@@ -159,6 +168,9 @@ a.ali-button-swhite {
     height:22px;
 }
 
+/*
+ * 不可用按钮
+ */
 .ali-button-ldisable,
 .ali-button-mdisable,
 .ali-button-sdisable {
@@ -211,12 +223,14 @@ a.ali-button-sdisable:hover {
     box-shadow: none;
 }
 
+/*
+ * 蓝色按钮
+ */
 .ali-button-lblue,
 .ali-button-mblue,
 .ali-button-sblue {
     border:none;
     color:#fff;
-    border: 1px solid #154c67;
     background-color: #006ba1;
 }
 
@@ -270,11 +284,14 @@ a.ali-button-sblue {
     height:22px;
 }
 
+/*
+ * 绿色按钮
+ */
 .ali-button-lgreen,
 .ali-button-mgreen,
 .ali-button-sgreen {
     color: #fff;
-    border:1px solid #379000;
+    border: none;
     background-color: #4BB402;
 }
 
